@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mod.FilesCoverotor.Server.props" />
+</Project>

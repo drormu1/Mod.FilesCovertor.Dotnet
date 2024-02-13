@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Mod.FilesCoverotor.Server.props" />
+</Project>

@@ -1,0 +1,6 @@
+.vscode
+certificates
+*aspose*.dll
+*.7z
+**/packages/*
+!**/packages/repositories.config
